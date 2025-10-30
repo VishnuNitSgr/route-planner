@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delhi Metro Route Planner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🚇 Delhi Metro Route Planner</h1>
+    <p>Find shortest distance & time between stations using Dijkstra’s Algorithm</p>
+  </header>
+
+  <main>
+    <section id="menu">
+      <h2>🧭 Menu</h2>
+      <div class="buttons">
+        <button onclick="listStations()">List All Stations</button>
+        <button onclick="showMap()">Show Metro Map</button>
+        <button onclick="findShortestDistance()">Shortest Distance</button>
+        <button onclick="findShortestTime()">Shortest Time</button>
+      </div>
+    </section>
+
+    <section id="inputSection">
+      <h3>Enter Source and Destination</h3>
+      <input type="text" id="source" placeholder="Source Station (e.g. AIIMS~Y)" />
+      <input type="text" id="destination" placeholder="Destination Station (e.g. Dwarka Sector 21~B)" />
+      <button onclick="calculate()">Calculate</button>
+    </section>
+
+    <section id="output">
+      <h3>📊 Output</h3>
+      <div id="result">Select an option to start...</div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built with ❤️ using HTML, CSS & JavaScript — Based on Dijkstra's Algorithm</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
