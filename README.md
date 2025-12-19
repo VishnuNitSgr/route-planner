@@ -58,8 +58,8 @@ A **web-based application** to find the shortest distance and travel time betwee
 
 ## 🔹 Links
 
-- **Live Demo:** [Click here to try it online](https://your-live-demo-link.com)  
-- **GitHub Repository:** [View the code](https://github.com/yourusername/metro-route-planner)
+- **Live Demo:** [Click here to try it online](https://vishnunitsgr.github.io/route-planner/)  
+- **GitHub Repository:** [View the code](https://github.com/VishnuNitSgr/route-planner)
 
 ---
 
@@ -69,4 +69,4 @@ This project is **open-source** and free to use for educational and personal pur
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by [Vishnu]**
