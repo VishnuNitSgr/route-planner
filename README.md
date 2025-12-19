@@ -18,6 +18,10 @@ A **web-based application** to find the shortest distance and travel time betwee
 ## 🔹 Screenshots
 
 ![Metro Route Planner Screenshot](screenshot.png)  
+![Metro Route Planner Screenshot](screenshot.png) 
+![Metro Route Planner Screenshot](screenshot.png) 
+![Metro Route Planner Screenshot](screenshot.png) 
+![Metro Route Planner Screenshot](screenshot.png) 
 *Replace with actual screenshot of your app*
 
 ---
